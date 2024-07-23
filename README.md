@@ -55,7 +55,9 @@ To set up the project on your local machine, follow these steps:
       ```
       
 5. **Run the Application**
+
       ```bash
         python app.py
 
       ```
+![Screenshot 2024-07-06 034119](https://github.com/user-attachments/assets/7e9057e3-661d-448b-9787-7a79697ed383)
